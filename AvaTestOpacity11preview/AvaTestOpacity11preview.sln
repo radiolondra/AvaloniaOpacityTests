@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaTestOpacity11preview", "AvaTestOpacity11preview\AvaTestOpacity11preview\AvaTestOpacity11preview.csproj", "{5568D989-6B97-4AC1-8ACA-6E656E41C9ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaTestOpacity11preview.Android", "AvaTestOpacity11preview\AvaTestOpacity11preview.Android\AvaTestOpacity11preview.Android.csproj", "{F7C42984-BC20-44F1-8CF5-6E32E404F9F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaTestOpacity11preview.Desktop", "AvaTestOpacity11preview\AvaTestOpacity11preview.Desktop\AvaTestOpacity11preview.Desktop.csproj", "{FF915FA2-0039-41FA-9F44-C659279C8DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaTestOpacity11preview.iOS", "AvaTestOpacity11preview\AvaTestOpacity11preview.iOS\AvaTestOpacity11preview.iOS.csproj", "{4B16F73C-7F13-441A-A9CD-FA29777E7CA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaTestOpacity11preview.Web", "AvaTestOpacity11preview\AvaTestOpacity11preview.Web\AvaTestOpacity11preview.Web.csproj", "{31FB2A4F-DD9A-4922-BE29-68AFFD791D49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5568D989-6B97-4AC1-8ACA-6E656E41C9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5568D989-6B97-4AC1-8ACA-6E656E41C9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5568D989-6B97-4AC1-8ACA-6E656E41C9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5568D989-6B97-4AC1-8ACA-6E656E41C9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C42984-BC20-44F1-8CF5-6E32E404F9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C42984-BC20-44F1-8CF5-6E32E404F9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C42984-BC20-44F1-8CF5-6E32E404F9F8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F7C42984-BC20-44F1-8CF5-6E32E404F9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C42984-BC20-44F1-8CF5-6E32E404F9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C42984-BC20-44F1-8CF5-6E32E404F9F8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FF915FA2-0039-41FA-9F44-C659279C8DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF915FA2-0039-41FA-9F44-C659279C8DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF915FA2-0039-41FA-9F44-C659279C8DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF915FA2-0039-41FA-9F44-C659279C8DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B16F73C-7F13-441A-A9CD-FA29777E7CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B16F73C-7F13-441A-A9CD-FA29777E7CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B16F73C-7F13-441A-A9CD-FA29777E7CA2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4B16F73C-7F13-441A-A9CD-FA29777E7CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B16F73C-7F13-441A-A9CD-FA29777E7CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B16F73C-7F13-441A-A9CD-FA29777E7CA2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{31FB2A4F-DD9A-4922-BE29-68AFFD791D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FB2A4F-DD9A-4922-BE29-68AFFD791D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FB2A4F-DD9A-4922-BE29-68AFFD791D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FB2A4F-DD9A-4922-BE29-68AFFD791D49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3866A1DE-1821-48E8-B831-5F9FB2ACB87F}
+	EndGlobalSection
+EndGlobal
